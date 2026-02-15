@@ -59,7 +59,7 @@ Model performance is evaluated using:
 ---
 
 ## 📈 Model Performance
-- R² Score: 
+- R² Score: 0.89%
 - MAE: 
 - MSE: 
 
